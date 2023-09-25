@@ -1,0 +1,62 @@
+img {
+    width: 32rem;
+    display: block;
+    margin: 0 auto;
+    border-left: 10px solid rgb(255, 230, 0);
+    border-radius: 3px;
+    
+}
+h1 {
+    font-size: 2.5em;
+    color: rgb(255, 156, 20);
+    font-style: oblique;
+}
+h2 {
+    color:rgb(255, 156, 20) ;
+}
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: rgb(12, 77, 169);
+}
+main {background-color: rgb(99, 101, 214);
+border-radius: 5px ;
+padding: 1rem;
+max-width: 90%;
+margin: 0 auto;
+}
+header {
+    width: 28rem;
+    margin: 0 auto;
+    text-align: center;
+}
+h3, blockquote {
+    text-align: center;
+    font-size: 0.7em;
+
+}
+li {
+    padding: 5px;
+}
+ul {
+    list-style: none;
+    text-align: center;
+}
+.history {
+    width: 80%;
+    margin: 0 auto;
+}
+aside {
+    width: 75%;
+    margin: 0 auto;
+    font-size: 18px;
+    background-color: hwb(224 45% 7%);
+    padding: 8px;
+    border-radius: 3px;
+}
+a {
+    color: yellow;
+}
+footer p {
+    color: orange;
+    font-family: 'Franklin Gothic Medium';
+}
